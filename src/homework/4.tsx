@@ -88,7 +88,7 @@ function MenuComponent({ menus }: PropsMenu) {
 export function ComponentApp() {
   const menus: Menu[] = [
     {
-      id: "first",
+      // id: "first",
       title: "first",
     },
     {
